@@ -1,7 +1,6 @@
 {
   "name": "todo",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +12,18 @@
     "jquery-datetimepicker": "^2.5.4",
     "normalize.css": "^4.2.0",
     "store": "^1.3.20"
-  }
+  },
+  "devDependencies": {
+    "webpack": "3.8.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisWen960216/JQueryApp.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/ChrisWen960216/JQueryApp/issues"
+  },
+  "homepage": "https://github.com/ChrisWen960216/JQueryApp#readme",
+  "description": ""
 }
